@@ -1,0 +1,7 @@
+name: Glassrecycling
+version: '${project.version}'
+main: xyz.gamlin.glassrecycling.GlassRecycling
+api-version: 1.17
+authors: [ Gamlin ]
+description: Re-smelt dyed glass blocks transparent!
+website: https://gamlin.xyz
